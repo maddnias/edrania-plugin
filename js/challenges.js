@@ -4,7 +4,7 @@ class Challenges
 	{
 		switch (action) {
 			case 'incoming':
-				this.initIncoming();
+				//this.initIncoming();
 				break;
 
 			case 'outgoing':
